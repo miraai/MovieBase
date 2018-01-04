@@ -1,0 +1,12 @@
+C:\Users\AD250430\Documents\Visual Studio 2017\Projects\MovieBaseAuth\MovieBaseAuth\bin\Debug\netcoreapp2.0\MovieBaseAuth.deps.json
+C:\Users\AD250430\Documents\Visual Studio 2017\Projects\MovieBaseAuth\MovieBaseAuth\bin\Debug\netcoreapp2.0\MovieBaseAuth.runtimeconfig.json
+C:\Users\AD250430\Documents\Visual Studio 2017\Projects\MovieBaseAuth\MovieBaseAuth\bin\Debug\netcoreapp2.0\MovieBaseAuth.runtimeconfig.dev.json
+C:\Users\AD250430\Documents\Visual Studio 2017\Projects\MovieBaseAuth\MovieBaseAuth\bin\Debug\netcoreapp2.0\MovieBaseAuth.dll
+C:\Users\AD250430\Documents\Visual Studio 2017\Projects\MovieBaseAuth\MovieBaseAuth\bin\Debug\netcoreapp2.0\MovieBaseAuth.pdb
+C:\Users\AD250430\Documents\Visual Studio 2017\Projects\MovieBaseAuth\MovieBaseAuth\obj\Debug\netcoreapp2.0\MovieBaseAuth.csprojResolveAssemblyReference.cache
+C:\Users\AD250430\Documents\Visual Studio 2017\Projects\MovieBaseAuth\MovieBaseAuth\obj\Debug\netcoreapp2.0\MovieBaseAuth.csproj.CoreCompileInputs.cache
+C:\Users\AD250430\Documents\Visual Studio 2017\Projects\MovieBaseAuth\MovieBaseAuth\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\AD250430\Documents\Visual Studio 2017\Projects\MovieBaseAuth\MovieBaseAuth\obj\Debug\netcoreapp2.0\MovieBaseAuth.AssemblyInfoInputs.cache
+C:\Users\AD250430\Documents\Visual Studio 2017\Projects\MovieBaseAuth\MovieBaseAuth\obj\Debug\netcoreapp2.0\MovieBaseAuth.AssemblyInfo.cs
+C:\Users\AD250430\Documents\Visual Studio 2017\Projects\MovieBaseAuth\MovieBaseAuth\obj\Debug\netcoreapp2.0\MovieBaseAuth.dll
+C:\Users\AD250430\Documents\Visual Studio 2017\Projects\MovieBaseAuth\MovieBaseAuth\obj\Debug\netcoreapp2.0\MovieBaseAuth.pdb
